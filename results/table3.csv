@@ -1,0 +1,4 @@
+policy,mean_reward,win_rate_vs_sft,kl_to_sft,length,rougeL
+sft,4.3007,NA,0.0,30.72,0.2541
+ppo,4.7502,0.5867,11.9796,22.5,0.193
+dpo,3.4927,0.4533,2.8172,44.32,0.2246
